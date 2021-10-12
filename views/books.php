@@ -4,7 +4,7 @@
 	<table id="tableBalises">
 		<thead>
 			<tr>
-				<th>Titre</th>
+				<th>Oke</th>
 				<th>Auteur</th>
 			</tr>
 		</thead>
